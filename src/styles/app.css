@@ -1,0 +1,22 @@
+.messgaebox {
+  max-height: 350px;
+  overflow-y: scroll;
+}
+
+.bubbles {
+  margin: 20px 0px;
+}
+
+.boxinput {
+  width: 90%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.alignright {
+  text-align: right;
+}
+
+.ui.container {
+  width: 768px;
+}
